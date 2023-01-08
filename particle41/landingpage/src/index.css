@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grad
+{
+  background: linear-gradient(45deg, #000c34 0%, #006194 44%, #01acc8 69%, #00c7da 81%, #01ffff 100%);
+}
+.rgrad
+{
+  background: linear-gradient(-45deg, #000c34 0%, #006194 44%, #01acc8 69%, #00c7da 81%, #01ffff 100%);
+}
+.txt{
+  color: rgba(255, 255, 255, 0.5);
+}
+.btnbg
+{
+  background: linear-gradient(to right,rgb(11, 135, 192),rgb(25, 169, 212));
+}
