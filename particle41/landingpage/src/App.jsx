@@ -1,5 +1,5 @@
 import React from 'react'
-import { Hero,Statement,Skills,Help } from './components'
+import { Hero,Statement,Skills,Help,Footer,Getstarted, Happen } from './components'
 
  const App = () => {
   return (
@@ -8,6 +8,9 @@ import { Hero,Statement,Skills,Help } from './components'
       <Statement />
       <Skills />
       <Help />
+      <Happen />
+      <Getstarted />
+      <Footer />
     </div>
   )
 }
