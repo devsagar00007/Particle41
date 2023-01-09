@@ -17,3 +17,6 @@
 {
   background: linear-gradient(to right,rgb(11, 135, 192),rgb(25, 169, 212));
 }
+.shadow_{
+  box-shadow: 0px 22px 59px 0px rgb(0 0 0 / 15%);
+}

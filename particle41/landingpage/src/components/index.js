@@ -5,6 +5,7 @@ import Help from "./Help";
 import Footer from "./Footer";
 import Getstarted from "./Getstarted";
 import Happen from "./Happen";
+import Card from "./Card";
 
 export {
     Hero,
@@ -13,5 +14,6 @@ export {
     Help,
     Footer,
     Getstarted,
-    Happen
+    Happen,
+    Card
 }

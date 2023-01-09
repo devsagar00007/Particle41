@@ -7,6 +7,10 @@ import facebookiconblack from "./facebookiconblack.png"
 import twittericonblack from "./twittericonblack.png"
 import linkedinblackicon from "./linkedinblackicon.png"
 import getstartimage from "./getstartimage.png"
+import arrowblue from "./arrowblue.png"
+import phoneicon from "./phoneicon.png"
+import whiteicon2 from "./whiteicon2.png"
+import whiteicon3 from "./whiteicon3.png"
 
 export{
     compimage,
@@ -17,5 +21,9 @@ export{
     facebookiconblack,
     twittericonblack,
     linkedinblackicon,
-    getstartimage
+    getstartimage,
+    arrowblue,
+    phoneicon,
+    whiteicon2,
+    whiteicon3
 }
