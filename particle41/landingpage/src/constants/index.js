@@ -26,4 +26,6 @@ export const features = [
         icon: whiteicon3,
         color:'bg-green-500'
     }
+
+
 ]

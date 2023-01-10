@@ -3,9 +3,9 @@ import { skillimg } from '../assets';
 
  const Skills = () => {
   return (
-    <div className='py-[3rem]'>
+    <div className='py-[3rem] lg:px-[4rem]'>
         <div className='px-[2rem] flex flex-col-reverse md:flex-row-reverse'>
-         <div className='pt-[3rem] md:w-[50%] md:p-auto md:pl-[3rem]'>
+         <div className='pt-[3rem] md:w-[50%] md:p-auto md:pl-[3rem] lg:pl-[6rem]'>
             <p className='font-bold text-[14px] text-cyan-500'>WE RESCUE PROJECTS PUT IN PERIL BY SKILL SHORTAGES.</p>
             <h1 className='font-bold text-2xl'>Success Requires The Best</h1>
             <div className='py-[1rem] md:py-[2rem]'>

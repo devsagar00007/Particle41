@@ -5,7 +5,7 @@ import { statementimg } from '../assets';
   return (
     <div className='py-[3rem]'>
         <div className='px-[2rem] flex flex-col-reverse md:flex-row'>
-         <div className='pt-[3rem] md:w-[50%] md:p-auto '>
+         <div className='pt-[3rem] md:w-[50%] md:p-auto lg:px-[8rem]'>
             
             <h1 className='font-semibold text-2xl'>Technology Recruitment is Expensive & Time-Consuming</h1>
             <div className='py-[1rem] md:py-[2rem]'>

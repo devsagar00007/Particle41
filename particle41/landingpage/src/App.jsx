@@ -1,9 +1,10 @@
 import React from 'react'
-import { Hero,Statement,Skills,Help,Footer,Getstarted, Happen } from './components'
+import { Hero,Statement,Skills,Help,Footer,Getstarted, Happen, Floatingnavbar } from './components'
 
  const App = () => {
   return (
     <div>
+      <Floatingnavbar />
       <Hero />
       <Statement />
       <Skills />

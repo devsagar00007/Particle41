@@ -4,10 +4,10 @@ import { getstartimage } from '../assets';
  const Getstarted = () => {
   return (
     <div className=' flex flex-col grad text-white pt-[2rem] pb-[3rem] md:flex-row'>
-        <div className=' mt-[-5rem] md:pr-[3rem] md:w-[50%] md:mt-0 xl:mt-[-5rem]'>
+        <div className=' mt-[-5rem] md:pr-[3rem] md:w-[50%] md:mt-0 xl:mt-[-5rem] max-w-[1100px] md:flex-grow-[1]'>
             <img src={getstartimage} alt="getsstarted" className='w-full h-auto'/>
         </div>
-        <div className='px-[2rem] md:w-[50%] md:py-[4rem]'>
+        <div className='px-[2rem] md:pl-[0rem]  md:py-[4rem] md:pr-[2rem] md:pt-[6rem] lg:pr-[4rem]'>
             <h1 className='font-semibold  text-4xl '>Let Our Team Strengthen Yours</h1>
             <div className='pt-[1rem]'>
                 <p className='text-[15px]'>Reach out to Particle41 today to tell us about your project. <br />

@@ -11,6 +11,8 @@ import arrowblue from "./arrowblue.png"
 import phoneicon from "./phoneicon.png"
 import whiteicon2 from "./whiteicon2.png"
 import whiteicon3 from "./whiteicon3.png"
+import particle41bluelogo from "./particle41bluelogo.png"
+import burgericonblack from './burgericonblack.png';
 
 export{
     compimage,
@@ -25,5 +27,8 @@ export{
     arrowblue,
     phoneicon,
     whiteicon2,
-    whiteicon3
+    whiteicon3,
+    particle41bluelogo,
+    burgericonblack
+
 }

@@ -6,6 +6,7 @@ import Footer from "./Footer";
 import Getstarted from "./Getstarted";
 import Happen from "./Happen";
 import Card from "./Card";
+import Floatingnavbar from "./Floatingnavbar";
 
 export {
     Hero,
@@ -15,5 +16,6 @@ export {
     Footer,
     Getstarted,
     Happen,
-    Card
+    Card,
+    Floatingnavbar
 }

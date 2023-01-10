@@ -20,3 +20,13 @@
 .shadow_{
   box-shadow: 0px 22px 59px 0px rgb(0 0 0 / 15%);
 }
+@keyframes example {
+  0%{margin-top: -100px;}
+  100%{margin-top: 0px;}
+}
+
+/* The element to apply the animation to */
+.slide {
+  animation-name: example;
+  animation-duration: 0.5s;
+}

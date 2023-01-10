@@ -5,11 +5,11 @@ import {compimage,particlelogo, menuicon} from "../assets";
     <div className=' w-screen grad '>
         {/* for smaller screens */}
  
-        <div className=' h-[70px]  items-end hidden lg:flex ' >
+        <div className='  items-end hidden lg:flex py-[2rem]' >
            
                 <img src={particlelogo} alt="logo" className='h-[35px] w-[250px] ml-[60px] '  />
             
-            <div className='  w-[80%]  h-full flex justify-end items-end mr-[80px]'>     
+            <div className='  w-[80%]  flex justify-end items-center mr-[80px]'>     
                 <ul className='flex space-x-8 text-white font-bold text-sm mr-[32px]'>
                    <li className='cursor-pointer hover:opacity-70 '>Services</li>
                    <li className='cursor-pointer hover:opacity-70 '>Process</li>
